@@ -55,9 +55,9 @@ text-overflow: clip;
     content: ' \20BD';
 }
 ul {
- list-style-type:  none;
- display: flex;
- justify-content: center;
+            list-style-type:  none;
+    display: flex;
+            justify-content: center;
  }
 
 ul.li {
